@@ -1,0 +1,22 @@
+.navbar-brand img {
+  width: 100px;
+  height: 30px;
+}
+.main-header {
+  padding-top: 100px;
+}
+.subcribe {
+  background-image: url(./img/_subscribe.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.brand-icon img {
+  max-width: 130px;
+}
+.coppy-right {
+  background-color: #000;
+}
+.blur-filter {
+  backdrop-filter: blur(8px);
+  background-color: #cccccc22;
+}
